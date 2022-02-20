@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <p align=center>
 	<br/><br/><br/><br/><br/>
-	<img src ='/public/img/wei/jlwei.png' width = '150' style="margin-top=:50px;">
+	<img src ='/public/img/Wei/jlwei.png' width = '150' style="margin-top=:50px;">
 </p>
 
 <p align=center>
@@ -22,7 +22,7 @@ permalink: /about/
 </p>
 
 <p align=center>
-	<a href="/public/file/Wei_CV_v2_3-page_Feb2022.pdf" class="image fit"><img src ='/public/img/CVlogo.png' width = '50' style="margin-top=:150px;"></a>
+	<a  href="/public/file/Wei_CV_v2_3-page_Feb2022.pdf" class="image fit"><img src ='/public/img/CVlogo.png' width = '50' style="margin-top=:150px;"></a>
 </p>
 
 
