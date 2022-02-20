@@ -22,7 +22,7 @@ permalink: /about/
 </p>
 
 <p align=center>
-	<a href="/public/file/Wei_CV_v2_3-page_Feb2022.pdf" class="image fit"><img src ='/public/img/CVlogo.png' width = '50' style="margin-top=:150px;"></a>
+	<a><img src ='/public/img/CVlogo.png' width = '50' style="margin-top=:150px;"></a>
 </p>
 
 
