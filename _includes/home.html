@@ -1,27 +1,23 @@
-<article class="post">
-  <header class="post-header home">
-    <div class="post-title">Articles</div>
-  </header>
+<p align=center>
+  <br/><br/><br/><br/><br/><br/><br/><br/>
+  <img src ='/public/img/wei/jlwei.png' width = '150' style="margin-top=:50px;">
+</p>
 
-  <div class="post-content">
-      {%- if site.posts.size > 0 -%}
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li class="post-list-item">
-        <!-- {%- assign date_format = site.date_format | default: "%b %-d, %Y" -%} -->
-        {%- assign date_format = "%Y/%m/%d" -%}
-        <span class="post-date">{{ post.date | date: date_format }}</span>
-      	<a class="post-link" href="{{ post.url | relative_url }}">
-    	    {{ post.title | escape }}
-		</a>
-        {%- if site.show_excerpts -%}{{ post.excerpt }}{%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
-  </div>
-</article>
+<p align=center style='margin-top:12px;'>
+  <b><font size ='+2'>Jialu Wei</font></b>
+</p>
+<p align=center style='margin-top:5px;'>
+  <b><font size ='-1'>Quantitative Genetics | Genomics | Transciptomics | Statistics | R</font></b>
+</p>
+<p align=center style='margin-top:8px;'>
+  Plant Breeding Ph.D. Candidate
+</p>
+<p align=center style='margin-top:8px;'>
+  Iowa State University
+</p>
+
+<p align=center style='margin-top:7px;'>
+  <a href="/public/file/.pdf" class="image fit"><img src ='/public/img/CVlogo.png' width = '50' style="margin-top=:150px;"></a>
+</p>
 
 
-
-</div>

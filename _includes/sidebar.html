@@ -1,3 +1,4 @@
+<div align=center>
 <div class="sidebar-item sidebar-header">
 	<div class='sidebar-brand'>
 		<a href="/about/">{{ site.title }}</a>
@@ -13,10 +14,7 @@
 
 <div class="sidebar-item sidebar-nav">
 	<ul class="nav">
-      <li class="nav-title">Pages</li>
-	  <li>
-	  	<a class="nav-item" href="/">Articles</a>
-	  </li>
+      <li class="nav-title">About me</li>
 	  {% assign pages_list = site.pages %}
 	  {% for node in pages_list %}
 	    {% if node.title != null %}
@@ -37,7 +35,7 @@
 			<li class="nav-title">Categories</li>
 	    {% for category in site.categories %}
 	    <li>
-	    	<a class="nav-item" href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}">
+	    	<a class="nav-item" href="{{ root_url }}/category/#{{ category | first }}">
 				<span class="name">{{ category | first }}</span>
 				<span class="badge">{{ category | last | size }}</span>
 	    	</a>
@@ -49,4 +47,5 @@
 
 <div class="sidebar-item sidebar-footer">
 	<p>Powered by <a href="https://github.com/jekyll/jekyll">Jekyll</a></p>
+</div>
 </div>
