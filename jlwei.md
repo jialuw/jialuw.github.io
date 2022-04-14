@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <p align=center>
-  <br/><br/><br/><br/><br/><br/><br/><br/>
+  <br/><br/><br/><br/><br/><br/><br/>
   <img src ='/public/img/Wei/jlwei.png' width = '150' style="margin-top=:50px;">
 </p>
 
