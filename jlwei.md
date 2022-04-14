@@ -12,18 +12,19 @@ permalink: /about/
 <p align=center style='margin-top:12px;'>
   <b><font size ='+2'>Jialu Wei</font></b>
 </p>
-<p align=center style='margin-top:5px;'>
-  <b><font size ='-1'>Quantitative Genetics | Genomics | Transciptomics | Statistics </font></b>
-</p>
-<p align=center style='margin-top:5px;'>
-  <b><font size ='-1'> R | R-shiny | Data Visualization</font></b>
-</p>
 
 <p align=center style='margin-top:8px;'>
   Plant Breeding Ph.D. Candidate
 </p>
 <p align=center style='margin-top:8px;'>
   Iowa State University
+</p>
+
+<p align=center style='margin-top:5px;'>
+  <b><font size ='-1'>Quantitative Genetics | Genomics | Transciptomics | Statistics </font></b>
+</p>
+<p align=center style='margin-top:5px;'>
+  <b><font size ='-1'> R | R-shiny | Data Visualization</font></b>
 </p>
 
 <p align=center style='margin-top:7px;'>
