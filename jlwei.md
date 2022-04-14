@@ -28,7 +28,7 @@ permalink: /about/
 </p>
 
 <p align=center style='margin-top:7px;'>
-  <a href="/public/file/Wei_CV_v2_3-page_Feb2022.pdf" class="image fit"><img src ='/public/img/CVlogo.png' width = '50' style="margin-top=:150px;"></a>
+  <a href="/public/file/Wei_CV_v4_3-page_Mar2022.pdf" class="image fit"><img src ='/public/img/CVlogo.png' width = '50' style="margin-top=:150px;"></a>
   <a href="https://www.linkedin.com/in/jialu-wei-a08442183"><img src ='/public/img/Linkedin-logo.png' width = '50' style="margin-top=:150px;"></a>
 </p>
 
