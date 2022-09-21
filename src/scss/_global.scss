@@ -25,6 +25,8 @@ html {
     }
 }
 
+.circular--square { border-radius: 50%; }
+
 .text-faded {
     color: fade-out($white, 0.3);
 }

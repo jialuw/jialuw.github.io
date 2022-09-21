@@ -11305,6 +11305,10 @@ html {
   text-transform: uppercase;
 }
 
+.circular--square {
+  border-radius: 50%;
+}
+
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
 }
@@ -11476,7 +11480,7 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0.6) 0%), url("../assets/img/sap2.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -11491,7 +11495,7 @@ footer.footer .social-link:hover {
     height: 100vh;
   }
   .masthead h1, .masthead .h1 {
-    font-size: 5.5rem;
+    font-size: 4.5rem;
   }
 }
 
