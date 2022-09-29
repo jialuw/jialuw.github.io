@@ -11480,7 +11480,7 @@ footer.footer .social-link:hover {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.6) 50%, rgba(255, 255, 255, 0.6) 50%), url("./assets/img/sap2.JPG");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, 0.6) 0%), url("../assets/img/sap2.JPG");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
