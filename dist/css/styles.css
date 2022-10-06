@@ -642,34 +642,6 @@ progress {
 }
 
 
-.wrapper {
-    padding-right: var(--bs-gutter-x, 0.75rem);
-    padding-left: var(--bs-gutter-x, 0.75rem);
-        width: 100%;
-         margin-right: auto;
-  margin-left: auto;
-
-}
-
-.left_container{
-        display: block;
-        float: left;
-        max-width: 400px;
-        height: 100%;
-}
-.right_container {
-        display: block;
-        float: right;
-        width: 60%;
-        height: 100%;
-}
-.left_container_content {
-        height: 50%;
-}
-.right_container_content {
-        
-}
-
 @media (min-width: 576px) {
   .container-sm, .container {
     max-width: 540px;
