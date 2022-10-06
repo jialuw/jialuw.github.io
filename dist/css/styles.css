@@ -900,6 +900,22 @@ progress {
   margin-right: auto;
   margin-left: auto;
 }
+.left_container{
+        float: left;
+        width: 40%;
+        height: 100%;
+}
+.right_container {
+        float: left;
+        width: 60%;
+        height: 100%;
+}
+.left_container_content {
+        height: 50%;
+}
+.right_container_content {
+        
+}
 
 @media (min-width: 576px) {
   .container-sm, .container {
