@@ -900,6 +900,11 @@ progress {
   margin-right: auto;
   margin-left: auto;
 }
+
+
+.wrapper {
+        width: 100%;
+}
 .left_container{
         float: left;
         width: 40%;
