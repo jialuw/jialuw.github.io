@@ -910,12 +910,15 @@ progress {
   margin-left: auto;
 
 }
+
 .left_container{
+  display: block;
         float: left;
         width: 40%;
         height: 100%;
 }
 .right_container {
+        display: block;
         float: left;
         width: 60%;
         height: 100%;
