@@ -919,7 +919,7 @@ progress {
 }
 .right_container {
         display: block;
-        float: left;
+        float: right;
         width: 60%;
         height: 100%;
 }
